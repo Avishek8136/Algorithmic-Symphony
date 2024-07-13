@@ -130,8 +130,12 @@ We welcome contributions from the community! Follow these steps to collaborate:
 
 ## Direct Links to Notebooks and Resources
 
+- [Obesity/CVD Risk Notebook](https://github.com/Avishek8136/Algorithmic-Symphony/blob/main/Obesity%20or%20CVD%20Risk%20Prediction/Obesity.ipynb)
+
 - [Phishing Email Classification Notebook](https://github.com/Avishek8136/Algorithmic-Symphony/blob/main/Phishing%20Email%20Classification/phishing_email.ipynb)
 
-- [Obesity/CVD Risk Notebook](https://github.com/Avishek8136/Algorithmic-Symphony/blob/main/Obesity%20or%20CVD%20Risk%20Prediction/Obesity.ipynb)
+- [Social Well Being Notebook](https://github.com/Avishek8136/Algorithmic-Symphony/blob/main/Social%20Well%20Being/Social_Well_Being.ipynb)
+
+- [Wine Quality Classification Notebook](https://github.com/Avishek8136/Algorithmic-Symphony/blob/main/Wine%20Quality%20Classification/Wine%20Quality.ipynb)
 
 Thank you for contributing!
