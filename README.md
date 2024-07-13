@@ -5,10 +5,10 @@
 This project, "Algorithmic Symphony," evaluates and compares the performance of various machine learning models across different datasets. The goal is to determine the effectiveness and robustness of four popular classification models: Random Forest, Logistic Regression, Support Vector Classifier (SVC), and K-Nearest Neighbors (KNN).
 
 ## Team Members
-- Adithya Krishna S
-- B Manish Reddy
-- Sreeram R
-- Avishek Rauniyar
+- [Adithya Krishna S](https://github.com/quark365)
+- [B Manish Reddy](https://github.com/Manish-2458)
+- [Sreeram R](https://github.com/SreeramRajeev)
+- [Avishek Rauniyar](https://github.com/Avishek8136)
 
 ## Datasets
 
