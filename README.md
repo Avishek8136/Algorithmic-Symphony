@@ -5,10 +5,10 @@
 This project, "Algorithmic Symphony," evaluates and compares the performance of various machine learning models across different datasets. The goal is to determine the effectiveness and robustness of four popular classification models: Random Forest, Logistic Regression, Support Vector Classifier (SVC), and K-Nearest Neighbors (KNN).
 
 ## Team Members
-- Adithya Krishna S
-- B Manish Reddy
-- Sreeram R
-- Avishek Rauniyar
+- [Adithya Krishna S](https://github.com/quark365)
+- [B Manish Reddy](https://github.com/Manish-2458)
+- [Sreeram R](https://github.com/SreeramRajeev)
+- [Avishek Rauniyar](https://github.com/Avishek8136)
 
 ## Datasets
 
@@ -31,6 +31,17 @@ This project, "Algorithmic Symphony," evaluates and compares the performance of 
    - Records: Varies
    - Attributes: 2 (Email Text, Email Type)
    - Target: Email Type (Phishing or Safe)
+
+## Problem Statement
+
+The goal of this project, **Algorithmic Symphony**, is to assess and compare the performance of four widely used machine learning classification algorithms (Random Forest, Logistic Regression, Support Vector Classifier, and K-Nearest Neighbors) across a variety of datasets. This comparison will help determine the strengths and weaknesses of each model in terms of accuracy, robustness, and adaptability to different types of data.
+
+The primary challenge is to:
+- Evaluate how each machine learning model handles diverse datasets with varying attributes, such as numerical, categorical, and text data.
+- Identify which model consistently performs best across multiple datasets, as well as which models may need specific tuning or adjustments to optimize their performance.
+- Provide insights into the suitability of each model for different types of real-world applications, such as predicting emotional states, obesity risk, wine quality, and phishing email detection.
+
+This project aims to provide a comprehensive understanding of machine learning model behaviour, offering valuable insights for selecting appropriate algorithms for specific tasks and datasets.
 
 ## Methodology
 
